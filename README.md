@@ -1,6 +1,6 @@
 # pedrohenrique
 <h1 align = "center"> Olá, querido <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, sou Pedro Henrique<h1>
-<h3 align = "center"> Instrutor de desenvolvedor da Web focado em ajudar as pessoas a começar a programar </h3>
+  <h3 align = "center"> Aprendendo a Desenvolver para  a Web</h3>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=maykbrito" alt = "maykbrito" /> </p>
 
 - 👨‍💻 Todos os meus projet
@@ -14,12 +14,12 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs" width = "20" height = "20" /> </p> <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt = "maykbrito" /> 
 </p>
-<h1 align = "center"> Olá, querido <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, sou Mayk Brito </ h1 >
-<h3 align = "center"> Instrutor de desenvolvedor da Web focado em ajudar as pessoas a começar a programar </h3>
+<h1 align = "center"> Olá, querido <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, sou  Pedro Henrique</h1>
+<h3 align = "center"> Aprendendo a Desenvolver para  Web</h3>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=maykbrito" alt = "maykbrito" /> </p>
 
 - 🔭 Atualmente estou aprendendo
-- Estou procurando HTML, JAVA, JAVASCRIPT, NODE.js
+- Estou procurando HTML, JAVA, JAVASCRIPT, NODE.js, CSS
 - Estou procurando ajuda par aprender programação
 - Pronomes
 - Curiosidades
@@ -34,21 +34,3 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt = "maykbrito" /> 
 </p>
 
-<p align = "center">
-<a href="https://codepen.io/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/codepen.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://twitter.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/twitter.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://linkedin.com/in/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1 / icons / linkedin.svg "alt =" maykbrito "height =" 20 "width =" 20 "/> </a>
-<a href="https://stackoverflow.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/stackoverflow.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://codesandbox.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/codesandbox.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://fb.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/facebook.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://instagram.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-</p>
-<p align = "center">
-<a href="https://codepen.io/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/codepen.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://twitter.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/twitter.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://linkedin.com/in/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0 .1 / icons / linkedin.svg "alt =" maykbrito "height =" 20 "width =" 20 "/> </a>
-<a href="https://stackoverflow.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/stackoverflow.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://codesandbox.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/codesandbox.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://fb.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/facebook.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-<a href="https://instagram.com/maykbrito" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg "alt =" maykbrito "height =" 20 "largura =" 20 "/> </a>
-</p>
