@@ -4,12 +4,7 @@
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=maykbrito" alt = "maykbrito" /> </p>
 
 - 👨‍💻 Todos os meus projet
-</p>
-<h1 align = "center"> Olá, querido <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px">, sou  Pedro Henrique</h1>
-<h3 align = "center"> Aprendendo a Desenvolver para  Web</h3>
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=maykbrito" alt = "Pedro" /> </p>
-
-- 🔭 Atualmente estou aprendendo
+- - 🔭 Atualmente estou aprendendo
 - Estou procurando HTML, JAVA, JAVASCRIPT, NODE.js, CSS
 - Estou procurando ajuda par aprender programação
 - Pronomes
